@@ -1,3 +1,8 @@
+# Document-Similarity-Search-Application using LangChain & HuggingFace(Local) 🤗
+
+
+![Logo](https://pbs.twimg.com/media/G16kwOmW8AAtEmi?format=jpg&name=large)
+
 
 ## Installation
 
@@ -24,3 +29,4 @@ Step 4 : Run the file
 ```bash
   run document_similarity.py
 ```
+    
